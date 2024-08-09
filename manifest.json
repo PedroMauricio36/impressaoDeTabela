@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Table Data Extractor",
+    "version": "1.0",
+    "description": "Extrai dados de uma tabela HTML e salva em CSV. ver 1.0",
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ],
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
